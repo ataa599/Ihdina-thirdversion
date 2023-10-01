@@ -1,0 +1,81 @@
+.container_custom{
+    padding: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.color{
+    /* background-color: green; */
+    text-align: center;
+}
+
+.shariah{
+    margin-left: 20px;
+    margin-bottom: 20px;
+    /* margin: 20px; */
+}
+
+.card{
+    background-color: #dfda98;
+}
+
+.button{
+    margin-left: 10px;
+}
+
+.custom-card {
+    min-width: 200px;
+}
+
+.card-text{
+    text-align: left;
+}
+
+.text{
+    text-decoration: underline;
+    text-shadow: 0cap;
+    color: goldenrod;
+    
+}
+.nav-text{
+    color: goldenrod;
+}
+
+
+/* .card_n {
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    text-align: center;
+    background-color:  #dfda98;
+  }
+  
+  .card-image {
+    width: 100%;
+    border-radius: 50%;
+  }
+  
+  .card-title {
+    font-size: 1.5rem;
+    margin-top: 10px;
+  }
+  
+  .card-description {
+    margin-top: 20px;
+  }
+  
+  .toggle-description {
+    background-color: goldenrod;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .full-description {
+    display: none;
+    margin-top: 20px;
+  } */
+  
